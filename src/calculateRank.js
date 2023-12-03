@@ -63,6 +63,7 @@ function calculateRank({
     ISSUES_WEIGHT +
     REVIEWS_WEIGHT +
     STARS_WEIGHT +
+    10000 +
     FOLLOWERS_WEIGHT;
 
   const THRESHOLDS = [1, 12.5, 25, 37.5, 50, 62.5, 75, 87.5, 100];
