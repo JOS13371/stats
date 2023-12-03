@@ -57,7 +57,7 @@ function calculateRank({
   const FOLLOWERS_MEDIAN = 10,
     FOLLOWERS_WEIGHT = 1;
 
-  const TOTAL_WEIGHT = 100;
+  const TOTAL_WEIGHT = 10;
 
   const THRESHOLDS = [1, 12.5, 25, 37.5, 50, 62.5, 75, 87.5, 100];
   const LEVELS = ["S", "A+", "A+", "A+", "A+", "A+", "A+", "A+", "A+"];
